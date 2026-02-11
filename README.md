@@ -79,3 +79,8 @@ This Power BI project demonstrates practical skills in:
 - Analytical Thinking
 - Storytelling with Data
 - Delivering Business Insights through BI Tools
+
+# AUTHOR
+
+- **NAME**-**SHIVA REDDY**
+- **EMAIL**-**devarashivareddy77@gmail.com**
